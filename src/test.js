@@ -4,7 +4,8 @@
 */
 
 set = Math.random();
+sets = set * 4000
 
-for( i=0 ; i < 1000 ; i++){
-    console.log(i, 'NO BLOCKERS');
+for( i=0 ; i < 3 ; i++){
+    console.log(i, sets);
 }
