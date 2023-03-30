@@ -7,9 +7,19 @@
 //make it easy to implement.
 //But the logic is not explained.
 
+/*
+To test a code you must code
+in C. If not applicable, then 
+Java is secondary solution.
+JS and python can use built-in
+methods for ease and sufficient
+for the task at hand.
+*/
+
 const arr = [5,7,-1,0,2];
 sorts = arr.sort();
 
 console.log("sorts" + sorts);
 ports = arr.pop();
 console.log("pop" + ports);
+
