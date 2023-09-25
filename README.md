@@ -22,6 +22,22 @@ js concepts --> alg basics --> .. some questions I seen in coding interviews:
 - [binary-search]: a classic question.
 - [hamming]: make a word search alg.  (advance)**
 - [quicksort]: a classic hemmy here!!
+- [all-wrong]: convert a string of correct answers to wrong answers. fb reference
+
+## Project Darzi
+
+The project is to build an e-commerce site.
+
+The following are the functionalities:
+
+- Single page layout
+- User authentication
+- Cart feature
+
+The tech-stack is JS and Shopify API. The premise is that Shopify will provide the functionalities and configuration that is needed to run the site.
+
+
+
 
 
 
