@@ -31,10 +31,21 @@ The project is to build an e-commerce site.
 The following are the functionalities:
 
 - Single page layout
-- User authentication
-- Cart feature
+- Clothing Catalog
+- User registration and authentication
+- Cart Hold
+- Purchase system
+- Create an invoice
 
-The tech-stack is JS and Shopify API. The premise is that Shopify will provide the functionalities and configuration that is needed to run the site.
+~~The tech-stack is JS and Shopify API. The premise is that Shopify will provide the functionalities and configuration that is needed to run the site.~~
+
+## Run the app
+
+1. 
+
+2.
+
+
 
 
 
